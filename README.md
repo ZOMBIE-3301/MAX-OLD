@@ -22,7 +22,7 @@ pip install rich
 
 # Run Command 👇
 
-https://github.com/ZOMBIE-3301/MAX-OLD
+git clone https://github.com/ZOMBIE-3301/MAX-OLD
 
 cd MAX-OLD
 
@@ -30,8 +30,9 @@ python Zold.py
 
 # Note 
 
-This Is Password Protected Tool So You Need USERNAM & PASSWORD
-Contact With Me For User & Pass
+This Is Password Protected Tool ⚠️ So You Need USERNAM & PASSWORD
+
+Contact With Me For User & Pass ⚠️
 
 # CONTACT WITH ME ON 👇
 
